@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Custom Spinner</string>
+
+    <string name="app_desc">Programmatically add/remove items from Spinner</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add">Add to Spinner</string>
+    <string name="remove">Remove from Spinner</string>
+    <string name="response">See response below</string>
+
+    <string-array name="fruit_array">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Mango</item>
+        <item>Grapes</item>
+        <item>Orange</item>
+        <item>Strawberry</item>
+        <item>Peach</item>
+    </string-array>
+</resources>
